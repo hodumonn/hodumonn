@@ -1,6 +1,6 @@
 ### Hi there 👋
-<a href="https://velog.io/@colorful-stars" target="_blank"><img src="https://simpleicons.org/icons/java.svg"/></a>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 
 
 <!--
